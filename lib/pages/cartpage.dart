@@ -33,7 +33,7 @@ class _CartpageState extends State<Cartpage> {
                   child: ListView.builder(
                     itemCount: value.cart.length,
                     itemBuilder: (context, index) => Container(
-                      padding: EdgeInsets.only(bottom: 10),
+                      padding: const EdgeInsets.only(bottom: 10),
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [

@@ -13,7 +13,7 @@ final List<Shoe> data = [
       price: "\$140",
       description: "The finest of all qualities"),
   Shoe(
-      name: "No Caption",
+      name: "No Caption ",
       imgPath: "lib/images/image5.jpeg",
       price: "\$140",
       description: "The finest of all qualities"),
